@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Sho - jimi-117
+## Welcome to my Github page! These are  some demos of my ML projects of trainning program at Simplon.co and so on. Enjoy!
 
 <!--
 **jimi-117/jimi-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
