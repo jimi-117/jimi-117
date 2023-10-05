@@ -1,4 +1,4 @@
-### Hi there, I'm Sho - jimi-117
+# Hi there, I'm Sho - jimi-117 
 ## Welcome to my Github page! These are  some demos of my ML projects of trainning program at Simplon.co and so on. Enjoy!
 
 <!--
