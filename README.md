@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- リポジトリステータス -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimi-117&theme=zenburn)
+
+<!-- ソースコード統計 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jimi-117&theme=zenburn)
