@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sho</h1>
-<h3 align="center">I am japanese AI/MLOps intern in France, and</h3>
+<h3 align="center">and</h3>
 <h3 align="center">Welcome to my Github page! These are some demos of my data projects. There are also the repos of trainning program at Simplon.co and so on. Enjoy!</h3>
 
 <p align="left"> <![](https://komarev.com/ghpvc/?username=jimi-117&style=flat-square)> </p>
