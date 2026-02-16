@@ -25,7 +25,20 @@
 
 
 <!-- リポジトリステータス -->
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimi-117&theme=2077) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jimi-117&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimi-117&theme=2077)
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td colspan="2" align="center" style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimi-117&theme=zenburn" alt="Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jimi-117&theme=zenburn" alt="Languages" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimi-117&theme=zenburn" alt="Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
