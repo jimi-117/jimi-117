@@ -2,7 +2,7 @@
 <h3 align="center">and</h3>
 <h3 align="center">Welcome to my Github page! These are some demos of my data projects. There are also the repos of trainning program at Simplon.co and so on. Enjoy!</h3>
 
-<p align="left"> <![](https://komarev.com/ghpvc/?username=jimi-117&style=flat-square)> </p>
+<![](https://komarev.com/ghpvc/?username=jimi-117&style=flat-square)>
 
 - 🌱 I’m currently learning **Data Science, Data engineering, MLOps, GCP, Azure, web developement.**
 
@@ -25,6 +25,7 @@
 
 
 <!-- リポジトリステータス -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimi-117&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jimi-117&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimi-117&theme=zenburn)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimi-117&theme=2077) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jimi-117&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimi-117&theme=2077)
