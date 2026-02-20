@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sho</h1>
 <h3 align="center">and</h3>
-<h3 align="center">Welcome to my Github page! These are some demos of my data projects. There are also the repos of trainning program at Simplon.co and so on. Enjoy!</h3>
+<h3 align="center">Welcome to my Github page! These are some demos of my data projects. There are also the repos of trainning program at Simplon.co and ENI école informatique. Enjoy!</h3>
 
 <div align="center">
   
